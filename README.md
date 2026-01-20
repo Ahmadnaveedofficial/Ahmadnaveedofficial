@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta_for_Developers-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MIT_App_Inventor-A5CF47?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
@@ -50,6 +51,7 @@
 - 📝 **Full-Stack Blog App:** Built with **React** and **Appwrite**, featuring full CRUD and secure authentication.
 - 🤖 **Doctor Appointment Automation:** Fully automated booking system using **n8n**, WhatsApp, and Stripe.
 - 🔐 **Smart Security System (Digital Logic):** Hardware-based security system using logic gates and sensors, featuring PIN-based access, alarms, and automated device control.
+- - 📱 **Mobile App Developer:** Built impactful applications like the **Quran App** and **Wallpaper App** using MIT App Inventor.
 - 📍 **Route Finder (DSA):** A navigation tool based on **Graph data structures** for finding shortest paths.
 - ✈️ **Hazel Blue Airline (C++):** Console-based Airline Reservation System using **OOP**, featuring admin/passenger roles, flight management, ticket booking, and persistent **File Handling**.
 
