@@ -25,24 +25,30 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+ 
   <br/>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- 📝 **Full-Stack Blog App:** Built with **React** and **Appwrite**, featuring full CRUD and secure authentication.
-- 📍 **Route Finder (DSA):** A navigation tool based on **Graph data structures** for finding shortest paths.
-- 🤖 **Doctor Appointment Automation:** Fully automated booking system using **n8n**, WhatsApp, and Stripe.
 - 💬 **Quick-Chat:** Real-time chat application powered by the **SERN stack** and Socket.io.
+- 📝 **Full-Stack Blog App:** Built with **React** and **Appwrite**, featuring full CRUD and secure authentication.
+- 🤖 **Doctor Appointment Automation:** Fully automated booking system using **n8n**, WhatsApp, and Stripe.
+- 🔐 **Smart Security System (Digital Logic):** Hardware-based security system using logic gates and sensors, featuring PIN-based access, alarms, and automated device control.
+- 📍 **Route Finder (DSA):** A navigation tool based on **Graph data structures** for finding shortest paths.
+- ✈️ **Hazel Blue Airline (C++):** Console-based Airline Reservation System using **OOP**, featuring admin/passenger roles, flight management, ticket booking, and persistent **File Handling**.
 
 ---
 
