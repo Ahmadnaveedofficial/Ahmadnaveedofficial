@@ -18,65 +18,49 @@
 
 ---
 
-### 🛠️ Complete Technology Stack
+### 🛠️ Tech Stack
 
-#### 🌐 Frontend
+<p align="left">
 
-HTML5 • CSS3 • SCSS • Sass • JavaScript • TypeScript • React • Next.js • Redux • Context API • Tailwind CSS • Bootstrap • Material UI • Vite • Responsive Design
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
-#### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-Node.js • Express.js • REST API • JWT • Socket.io • MVC Architecture • Authentication • Authorization • Middleware • File Uploads • API Integration
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
-#### 🗄️ Databases
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-MongoDB • Mongoose • SQL • MS SQL Server • Database Design • Aggregation Pipelines • Query Optimization
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-#### ☁️ Cloud & Deployment
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-Cloudinary • Appwrite • Vercel • Netlify • Render • Railway • MongoDB Atlas
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-#### 🤖 AI & Automation
+</p>
 
-Google Gemini AI • Prompt Engineering • AI Integration • n8n • Workflow Automation • WhatsApp Automation • Stripe Integration
-
-#### 💻 Programming Languages
-
-JavaScript • TypeScript • Python • Java • C++ • SQL
-
-#### ☕ Java Development
-
-Java Swing • Java AWT • OOP • Desktop Application Development
-
-#### 🛒 E-Commerce
-
-Shopify • Shopify Liquid • WordPress • WooCommerce • Meta Pixel • Facebook Ads • Instagram Marketing
-
-#### 📱 Mobile Development
-
-MIT App Inventor • Android App Development
-
-#### 🔧 DevOps & Tools
-
-Docker • Git • GitHub • GitHub Actions • Postman • VS Code • npm • Yarn
-
-#### 📡 Networking
-
-Cisco Packet Tracer • Networking Basics • TCP/IP • Routing • Switching • DNS • HTTP/HTTPS
-
-#### 📚 Computer Science
-
-Data Structures • Algorithms • Graph Theory • Dijkstra Algorithm • OOP • DBMS • Operating Systems • Computer Networks
-
-#### 🔌 Digital Logic Design
-
-Logic Gates • Multiplexers • Demultiplexers • Flip-Flops • Counters • Encoders • Decoders • Seven Segment Displays • Multisim
-
-#### 🎯 Additional Skills
-
-Problem Solving • Software Engineering • System Design • Agile Development • Debugging • Testing • Documentation
-
----
 
 ### 🌟 Featured Projects
 
