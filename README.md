@@ -141,17 +141,37 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Ge
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadnaveedofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnaveedofficial&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadnaveedofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnaveedofficial&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmadnaveedofficial&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Ahmadnaveedofficial&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadnaveedofficial&theme=tokyonight" width="100%" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadnaveedofficial&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnaveedofficial&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
 
 ### 📫 Let's Connect!
 
