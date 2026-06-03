@@ -9,14 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Full-Stack Specialist:** Expert in **MERN** and **SERN** stacks, building high-performance web applications.
-- 🤖 **Automation Architect:** Designing complex AI-driven workflows using **n8n** and Docker.
-- 📍 **DSA Enthusiast:** Developed a **Route Finder** project utilizing advanced **Graph Theory** and Pathfinding concepts.
-- 🛍️ **E-commerce Expert:** Skilled in custom **Shopify** and **WordPress** development to help businesses grow online.
-- ☕ **Java Developer:** Built GUI-based desktop applications using **Java Swing** and **AWT**.
-- 📂 **Backend Power:** Experienced with **SQL Server**, **Appwrite**, **MongoDB**, and **Cloudinary**.
+I'm **Muhammad Ahmad Naveed**, a passionate **Full-Stack Developer** specializing in the **MERN** and **SERN** stacks. I enjoy building scalable web applications, designing robust backend systems, and creating seamless user experiences that solve real-world problems.
 
----
+My expertise spans across **Node.js, Express.js, React.js, MongoDB, SQL Server, Appwrite, and Cloudinary**, with a strong focus on API development, authentication systems, database architecture, and modern web technologies. I am also actively exploring **TypeScript, Next.js, Docker, and AI integrations** to expand my technical capabilities.
+
+Beyond web development, I have a strong interest in **Data Structures & Algorithms**, particularly **Graph Theory** and optimization techniques, which I applied while developing my **Route Finder** project. I have also built desktop applications using **Java Swing** and **AWT**, strengthening my understanding of Object-Oriented Programming and software design principles.
+
+In addition to software engineering, I work with **Shopify**, **WordPress**, and **workflow automation platforms such as n8n**, helping businesses streamline operations and establish a strong digital presence. I am passionate about continuous learning, problem-solving, and building impactful technology solutions that create real value.
 
 ### 🛠️ Tech Stack
 
@@ -101,6 +100,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Thunder_Client-6F42C1?style=for-the-badge&logo=thunderbird&logoColor=white" />
+
 
 
 <br/>
