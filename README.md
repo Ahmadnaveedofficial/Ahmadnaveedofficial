@@ -18,130 +18,63 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Complete Technology Stack
 
-<p align="left">
-  <!-- Frontend & JS -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <br/>
-  <!-- Databases & Cloud -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=icloud&logoColor=white" />
-  <br/>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWT-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <br/>
-  <!-- Automation & Tools -->
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <br/>
-  <!-- Marketing & Mobile -->
-  <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_for_Developers-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/MIT_App_Inventor-A5CF47?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+#### 🌐 Frontend
 
+HTML5 • CSS3 • SCSS • Sass • JavaScript • TypeScript • React • Next.js • Redux • Context API • Tailwind CSS • Bootstrap • Material UI • Vite • Responsive Design
 
-### 🛠️ Tech Stack
+#### ⚙️ Backend
 
-<p align="left">
+Node.js • Express.js • REST API • JWT • Socket.io • MVC Architecture • Authentication • Authorization • Middleware • File Uploads • API Integration
 
-<!-- Frontend -->
+#### 🗄️ Databases
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+MongoDB • Mongoose • SQL • MS SQL Server • Database Design • Aggregation Pipelines • Query Optimization
 
-<br/>
+#### ☁️ Cloud & Deployment
 
-<!-- Backend -->
+Cloudinary • Appwrite • Vercel • Netlify • Render • Railway • MongoDB Atlas
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+#### 🤖 AI & Automation
 
-<br/>
+Google Gemini AI • Prompt Engineering • AI Integration • n8n • Workflow Automation • WhatsApp Automation • Stripe Integration
 
-<!-- Databases -->
+#### 💻 Programming Languages
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+JavaScript • TypeScript • Python • Java • C++ • SQL
 
-<br/>
+#### ☕ Java Development
 
-<!-- Cloud & Platforms -->
+Java Swing • Java AWT • OOP • Desktop Application Development
 
-<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+#### 🛒 E-Commerce
 
-<br/>
+Shopify • Shopify Liquid • WordPress • WooCommerce • Meta Pixel • Facebook Ads • Instagram Marketing
 
-<!-- Programming Languages -->
+#### 📱 Mobile Development
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/AWT-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+MIT App Inventor • Android App Development
 
-<br/>
+#### 🔧 DevOps & Tools
 
-<!-- AI & Automation -->
+Docker • Git • GitHub • GitHub Actions • Postman • VS Code • npm • Yarn
 
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+#### 📡 Networking
 
-<br/>
+Cisco Packet Tracer • Networking Basics • TCP/IP • Routing • Switching • DNS • HTTP/HTTPS
 
-<!-- E-Commerce -->
+#### 📚 Computer Science
 
-<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+Data Structures • Algorithms • Graph Theory • Dijkstra Algorithm • OOP • DBMS • Operating Systems • Computer Networks
 
-<br/>
+#### 🔌 Digital Logic Design
 
-<!-- Tools -->
+Logic Gates • Multiplexers • Demultiplexers • Flip-Flops • Counters • Encoders • Decoders • Seven Segment Displays • Multisim
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+#### 🎯 Additional Skills
 
-<br/>
-
-<!-- Networking -->
-
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</p>
-
+Problem Solving • Software Engineering • System Design • Agile Development • Debugging • Testing • Documentation
 
 ---
 
