@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmadnaveedofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadnaveedofficial" />
+    <a href="https://ahmadnaveed.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ahmad-naveed-7b539521a/">LinkedIn</a> •
+  <a href="mailto:ahmadnaveedofficial05@gmail.com">Email</a>
 </p>
 
 ---
