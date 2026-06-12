@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Naveed</h1>
 <h3 align="center">Full-Stack Developer | Automation Expert | Shopify & WordPress Developer</h3>
 
-### 🌐 Portfolio
-
-🚀 Portfolio: https://ahmadnaveed.vercel.app/
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmadnaveedofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadnaveedofficial" />
 </p>
@@ -180,6 +176,7 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Ge
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [Ahmad Naveed](https://www.linkedin.com/in/ahmad-naveed-7b539521a/)
+- 🌐 **Portfolio:** [Ahmad Naveed](https://ahmadnaveed.vercel.app)
 - 📧 **Email:** ahmadnaveedofficial05@gmail.com
 - 📞 **Phone:** +92 323 9942960
 - 💬 I'm open to collaborations and freelance projects in Web Dev & Automation!
