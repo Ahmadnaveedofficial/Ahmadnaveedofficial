@@ -115,7 +115,7 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
 ### 🌟 Featured Projects
 
-🤖 AI Interview Preparation & Resume Optimization Platform
+- 🤖 AI Interview Preparation & Resume Optimization Platform
 Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.
 Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
 - 🎬 **VibeTube Backend:** Production-ready YouTube-style video platform backend built with **Node.js, Express, MongoDB, Cloudinary**, JWT auth, Aggregation Pipelines, and MVC architecture.
