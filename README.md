@@ -122,12 +122,10 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 ### 🌟 Featured Projects
 
 - 💬 **Mystery Message (Next.js Full-Stack):**
-  A modern anonymous messaging platform where users can create an account, verify their email, receive anonymous messages through a unique public profile, manage messages from a personalized dashboard, and control whether they want to accept new messages. The platform also integrates Google Gemini AI to generate smart anonymous message suggestions, providing an engaging user experience.
-
-  **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, MongoDB, Mongoose, NextAuth.js, Nodemailer, React Email, Google Gemini AI, AI SDK, Zod, React Hook Form, Axios, Day.js, Sonner, Vercel.
+  A modern anonymous messaging platform where users can create an account, verify their email, receive anonymous messages through a unique public profile, manage messages from a personalized dashboard, and control whether they want to accept new messages. The platform also integrates Google Gemini AI to generate smart anonymous message suggestions, providing an engaging user experience.Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, MongoDB, Mongoose, NextAuth.js, Nodemailer, React Email, Google Gemini AI, AI SDK, Zod, React Hook Form, Axios, Day.js, Sonner, Vercel.
+  
 - 🤖 **AI Interview Preparation & Resume Optimization Platform**
-  Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.
-  **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
+  Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
 - 🎬 **VibeTube Backend:** Production-ready YouTube-style video platform backend built with **Node.js, Express, MongoDB, Cloudinary**, JWT auth, Aggregation Pipelines, and MVC architecture.
 - 🚗 **Car Rental System:** Full-stack **MERN** car rental web application with a client-server architecture, deployed on Vercel.
 - 🎲 **Ludo Game (Java):** Classic Ludo board game built with **Java Swing & AWT**, featuring AI opponents, smooth token animation, dice rolling, capture mechanics, and a full multi-file package structure.
