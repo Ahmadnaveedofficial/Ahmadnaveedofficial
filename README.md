@@ -28,11 +28,10 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
 
 <br/>
 
@@ -40,24 +39,25 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/Nodemailer-22A559?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemailer-22A559?style=for-the-badge&logo=maildotru&logoColor=white" />
 
 <br/>
 
 <!-- Databases -->
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
 <br/>
 
 <!-- Cloud & Platforms -->
@@ -76,17 +76,19 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/AWT-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
 <br/>
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+<br/>
 
 <!-- AI & Automation -->
 
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -106,10 +108,7 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Thunder_Client-6F42C1?style=for-the-badge&logo=thunderbird&logoColor=white" />
-
-
-
+<img src="https://img.shields.io/badge/Thunder_Client-6F42C1?style=for-the-badge&logo=thunderclient&logoColor=white" />
 
 <br/>
 
@@ -127,8 +126,8 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
   **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, MongoDB, Mongoose, NextAuth.js, Nodemailer, React Email, Google Gemini AI, AI SDK, Zod, React Hook Form, Axios, Day.js, Sonner, Vercel.
 - 🤖 **AI Interview Preparation & Resume Optimization Platform**
-Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.
-Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
+  Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.
+  **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
 - 🎬 **VibeTube Backend:** Production-ready YouTube-style video platform backend built with **Node.js, Express, MongoDB, Cloudinary**, JWT auth, Aggregation Pipelines, and MVC architecture.
 - 🚗 **Car Rental System:** Full-stack **MERN** car rental web application with a client-server architecture, deployed on Vercel.
 - 🎲 **Ludo Game (Java):** Classic Ludo board game built with **Java Swing & AWT**, featuring AI opponents, smooth token animation, dice rolling, capture mechanics, and a full multi-file package structure.
@@ -155,7 +154,7 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Ge
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadnaveedofficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadnaveedofficial&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnaveedofficial&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
@@ -182,7 +181,6 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Ge
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnaveedofficial&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
 
 ### 📫 Let's Connect!
 
