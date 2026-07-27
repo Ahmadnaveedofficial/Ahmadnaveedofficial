@@ -13,6 +13,8 @@ I'm **Muhammad Ahmad Naveed**, a passionate **Full-Stack Developer** specializin
 
 My expertise spans across **Node.js, Express.js, React.js, MongoDB, SQL Server, Appwrite, and Cloudinary**, with a strong focus on API development, authentication systems, database architecture, and modern web technologies. I am also actively exploring **TypeScript, Next.js, Docker, and AI integrations** to expand my technical capabilities.
 
+I'm also on my **cloud computing journey**, currently building hands-on skills with **AWS**, exploring core cloud concepts, services, and deployment practices to strengthen my full-stack development with scalable cloud infrastructure.
+
 Beyond web development, I have a strong interest in **Data Structures & Algorithms**, particularly **Graph Theory** and optimization techniques, which I applied while developing my **Route Finder** project. I have also built desktop applications using **Java Swing** and **AWT**, strengthening my understanding of Object-Oriented Programming and software design principles.
 
 In addition to software engineering, I work with **Shopify**, **WordPress**, and **workflow automation platforms such as n8n**, helping businesses streamline operations and establish a strong digital presence. I am passionate about continuous learning, problem-solving, and building impactful technology solutions that create real value.
