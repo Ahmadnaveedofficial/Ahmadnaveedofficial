@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Naveed</h1>
-<h3 align="center">Full-Stack Developer | Automation Expert | Shopify & WordPress Developer</h3>
+<h3 align="center">Full-Stack Developer | AI Automation Expert | Shopify & WordPress Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmadnaveedofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadnaveedofficial" />
@@ -141,6 +141,9 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
 ## 📜 Professional Certifications
 
+* ☁️ **AWS Cloud Practitioner Essentials** — AWS Training & Certification *(Jul 2026)*
+* 🤖 **Unlock Productivity and Unleash Creativity with AI Powered Chat** — Microsoft Learn *(Jul 2026)*
+* 🧠 **Introduction to Generative AI and Agents** — Microsoft Learn *(Jun 2026)*
 * 🏆 **Shopify Development** — JDC Free IT City Lahore *(Batch 1, Jul 2024 – Sep 2024)*
 * 💎 **Introduction to SQL** — Sololearn *(Jan 2026)*
 * ⚡ **JavaScript ES6 (ES2015)** — MindLuster *(May 2025)*
