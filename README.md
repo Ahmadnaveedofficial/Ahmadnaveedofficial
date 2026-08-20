@@ -11,13 +11,15 @@
 
 I'm **Muhammad Ahmad Naveed**, a passionate **Full-Stack Developer** specializing in the **MERN** and **SERN** stacks. I enjoy building scalable web applications, designing robust backend systems, and creating seamless user experiences that solve real-world problems.
 
-My expertise spans across **Node.js, Express.js, React.js, MongoDB, SQL Server, Appwrite, and Cloudinary**, with a strong focus on API development, authentication systems, database architecture, and modern web technologies. I am also actively exploring **TypeScript, Next.js, Docker, and AI integrations** to expand my technical capabilities.
+My expertise spans across **Node.js, Express.js, React.js, MongoDB, SQL Server, Appwrite, and Cloudinary**, with a strong focus on API development, authentication systems, database architecture, and modern web technologies. I am also actively exploring **TypeScript, Next.js, NestJS, Docker, and AI integrations** to expand my technical capabilities.
+
+I recently completed a **Software Development Internship at 10Pearls** as part of the **Shine Cohort 9** program, where I worked hands-on with the MERN stack, TypeScript, MySQL, Git-based collaboration, and testing tools like **Jest, Mocha, and SonarQube** in a structured, real-world engineering environment.
 
 I'm also on my **cloud computing journey**, currently building hands-on skills with **AWS**, exploring core cloud concepts, services, and deployment practices to strengthen my full-stack development with scalable cloud infrastructure.
 
 Beyond web development, I have a strong interest in **Data Structures & Algorithms**, particularly **Graph Theory** and optimization techniques, which I applied while developing my **Route Finder** project. I have also built desktop applications using **Java Swing** and **AWT**, strengthening my understanding of Object-Oriented Programming and software design principles.
 
-In addition to software engineering, I work with **Shopify**, **WordPress**, and **workflow automation platforms such as n8n**, helping businesses streamline operations and establish a strong digital presence. I am passionate about continuous learning, problem-solving, and building impactful technology solutions that create real value.
+In addition to software engineering, I work with **Shopify**, **WordPress**, and **workflow automation platforms such as n8n and Inngest**, helping businesses streamline operations and establish a strong digital presence. I am passionate about continuous learning, problem-solving, and building impactful technology solutions that create real value.
 
 ### 🛠️ Tech Stack
 
@@ -30,8 +32,10 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
@@ -41,11 +45,22 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Nodemailer-22A559?style=for-the-badge&logo=maildotru&logoColor=white" />
+
+<br/>
+
+<!-- Real-Time & Collaboration -->
+
+<img src="https://img.shields.io/badge/Yjs_CRDT-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monaco_Editor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
 
 <br/>
 
@@ -54,6 +69,7 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -68,6 +84,7 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -95,9 +112,21 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 <!-- AI & Automation -->
 
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Inngest-1E1E2E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/>
+
+<!-- Testing & Quality Assurance -->
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Pino_Logger-22C55E?style=for-the-badge" />
 
 <br/>
 
@@ -127,20 +156,37 @@ In addition to software engineering, I work with **Shopify**, **WordPress**, and
 
 ### 🌟 Featured Projects
 
-- 💬 **Mystery Message (Next.js Full-Stack):**
-  A modern anonymous messaging platform where users can create an account, verify their email, receive anonymous messages through a unique public profile, manage messages from a personalized dashboard, and control whether they want to accept new messages. The platform also integrates Google Gemini AI to generate smart anonymous message suggestions, providing an engaging user experience.Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, MongoDB, Mongoose, NextAuth.js, Nodemailer, React Email, Google Gemini AI, AI SDK, Zod, React Hook Form, Axios, Day.js, Sonner, Vercel.
-  
+- 📈 **Signalist (Next.js Full-Stack):**
+  AI-powered stock market intelligence platform for tracking market data, stock performance, and company insights. Integrates Google Gemini to generate personalized market insights and summaries, TradingView for custom stock charts, Better Auth for secure authentication, and automated email workflows powered by Inngest and Nodemailer. Tech Stack: Next.js, TypeScript, MongoDB, Mongoose, Better Auth, Gemini AI, Inngest, TradingView, Nodemailer.
+
 - 🤖 **AI Interview Preparation & Resume Optimization Platform**
   Full-stack AI-powered platform that analyzes resumes, job descriptions, and candidate profiles to generate interview preparation reports, ATS optimization suggestions, skill-gap analysis, personalized roadmaps, and optimized PDF resumes using AI.Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, Gemini AI, SCSS, PDF Generation
+
+- 🚗 **Car Rental System:** Full-stack **MERN** car rental web application with a client-server architecture and a categorized blog section for travel and car tips, deployed on Vercel.
+
+- 🧩 **Real-Time Collaborative Code Editor:** Multi-user code editor with live sync and cursor tracking, built with **Yjs CRDTs, Socket.IO, and Monaco Editor**, containerized with Docker and deployed on **AWS ECS** with ECR and an Application Load Balancer.
+
+- 💬 **Mystery Message (Next.js Full-Stack):**
+  A modern anonymous messaging platform where users can create an account, verify their email, receive anonymous messages through a unique public profile, manage messages from a personalized dashboard, and control whether they want to accept new messages. The platform also integrates Google Gemini AI to generate smart anonymous message suggestions, providing an engaging user experience.Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, MongoDB, Mongoose, NextAuth.js, Nodemailer, React Email, Google Gemini AI, AI SDK, Zod, React Hook Form, Axios, Day.js, Sonner, Vercel.
+
+- 🎵 **Harmony Music Academy:** Modern music academy website built with **Next.js and TypeScript**, showcasing courses, instructor profiles, and webinars with a fully responsive design, deployed on Vercel.
+
 - 🎬 **VibeTube Backend:** Production-ready YouTube-style video platform backend built with **Node.js, Express, MongoDB, Cloudinary**, JWT auth, Aggregation Pipelines, and MVC architecture.
-- 🚗 **Car Rental System:** Full-stack **MERN** car rental web application with a client-server architecture, deployed on Vercel.
-- 🎲 **Ludo Game (Java):** Classic Ludo board game built with **Java Swing & AWT**, featuring AI opponents, smooth token animation, dice rolling, capture mechanics, and a full multi-file package structure.
+
 - 💬 **Quick-Chat:** Real-time chat application powered by the **SERN stack** and Socket.io.
+
 - 📝 **Full-Stack Blog App:** Built with **React** and **Appwrite**, featuring full CRUD and secure authentication.
+
 - 🤖 **Doctor Appointment Automation:** Fully automated booking system using **n8n**, WhatsApp, and Stripe.
-- 🔐 **Smart Security System (Digital Logic):** Hardware-based security system using logic gates and sensors, featuring PIN-based access, alarms, and automated device control.
+
+- 🎲 **Ludo Game (Java):** Classic Ludo board game built with **Java Swing & AWT**, featuring AI opponents, smooth token animation, dice rolling, capture mechanics, and a full multi-file package structure.
+
 - 📱 **Mobile App Developer:** Built impactful applications like the **Quran App** and **Wallpaper App** using MIT App Inventor.
+
 - 📍 **Route Finder (DSA):** A navigation tool based on **Graph data structures** for finding shortest paths.
+
+- 🔐 **Smart Security System (Digital Logic):** Hardware-based security system using logic gates and sensors, featuring PIN-based access, alarms, and automated device control.
+
 - ✈️ **Hazel Blue Airline (C++):** Console-based Airline Reservation System using **OOP**, featuring admin/passenger roles, flight management, ticket booking, and persistent **File Handling**.
 
 ---
