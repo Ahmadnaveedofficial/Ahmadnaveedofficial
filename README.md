@@ -47,16 +47,6 @@ open_to:
 
 ---
 
-### 🚧 What I'm Currently Working On
-
-- 🔭 Building **[Signalist](https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app)** — an AI-powered stock market intelligence platform
-- 🌱 Deepening knowledge in **NestJS, PostgreSQL, Prisma**, and AWS cloud deployment
-- 🤖 Shipping AI-assisted automation workflows using **n8n** and **Inngest**
-- 💼 Actively looking for **Full-Stack Development internships & junior roles**
-- 📫 Open to freelance web development and open-source collaboration
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -152,8 +142,6 @@ open_to:
 - 🤖 **Doctor Appointment Automation** — Automated booking workflow with WhatsApp and payment triggers. `n8n · WhatsApp API`
 - 📍 **[Route Finder](https://github.com/Ahmadnaveedofficial/Route-Finder)** — Shortest-path finder using Dijkstra's algorithm. `C++ · Graphs · DSA`
 
-> 💡 Want a "Pinned Projects" card grid like on your profile home page? Go to **github.com/Ahmadnaveedofficial → Customize your pins** and pick up to 6 repos — GitHub renders those as cards automatically, no README code needed.
-
 ---
 
 ### 📜 Professional Certifications
@@ -185,22 +173,6 @@ open_to:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnaveedofficial&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/output/github-contribution-grid-snake-3d.svg" width="100%" />
-</p>
-
-> ⚠️ This image only appears **after** you set up the free `yoshi389111/github-profile-3d-contrib` GitHub Action on your profile repo (`Ahmadnaveedofficial/Ahmadnaveedofficial`). It regenerates the 3D graph + radar chart automatically every day.
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-> ⚠️ Same as above — this needs the `Platane/snk` GitHub Action added to your profile repo's workflow to generate the animated snake SVG from your contribution graph.
 
 ---
 
