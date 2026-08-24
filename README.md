@@ -60,7 +60,7 @@ open_to:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,nextjs,nodejs,express,nestjs,socketio,mongodb,mysql,postgres,prisma,firebase,aws,docker,vercel,git,github,postman,vscode,cpp,java,python&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,nextjs,nodejs,express,nestjs,socketio,mongodb,mongoose,mysql,mssql,postgres,prisma,firebase,appwrite,cloudinary,aws,docker,vercel,render,git,github,postman,vscode,cpp,java,python,framer,n8n,jest,mocha,sonarqube,shopify,wordpress&perline=9" />
 </p>
 
 ---
