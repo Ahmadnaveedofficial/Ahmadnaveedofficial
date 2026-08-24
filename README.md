@@ -169,11 +169,6 @@ open_to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnaveedofficial&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnaveedofficial&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmadnaveedofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
@@ -199,8 +194,6 @@ open_to:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
-
-> ⚠️ Needs the free `yoshi389111/github-profile-3d-contrib` GitHub Action added to your profile repo (`Ahmadnaveedofficial/Ahmadnaveedofficial`) — say the word and I'll write the workflow file.
 
 ---
 
