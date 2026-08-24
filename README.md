@@ -114,32 +114,12 @@ open_to:
   </tr>
 </table>
 
+---
+
 **More projects:** [Mystery Message](https://github.com/Ahmadnaveedofficial/nextApp) · [VibeTube Backend](https://github.com/Ahmadnaveedofficial/VibeTube-Backend) · [Quick-Chat](https://github.com/Ahmadnaveedofficial/Quick-Chat) · [AN Blog](https://github.com/Ahmadnaveedofficial/AN-Blog) · [Route Finder](https://github.com/Ahmadnaveedofficial/Route-Finder) · Doctor Appointment Automation (n8n · WhatsApp API)
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadnaveedofficial&repo=signalist_stock-tracker-app&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Ahmadnaveedofficial/HireCraft-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadnaveedofficial&repo=HireCraft-AI&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ahmadnaveedofficial/Real-Time-Collaborative-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadnaveedofficial&repo=Real-Time-Collaborative-Editor&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Ahmadnaveedofficial/CarRental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadnaveedofficial&repo=CarRental&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-
-> 💡 These pin cards render automatically from your public repos — no manual setup needed. For the pins to show your *actual chosen* highlights on your profile home page too, also set them via **GitHub → Customize your pins**.
-
----
 
 ## 🏗️ What I'm Currently Working On
 
