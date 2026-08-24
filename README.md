@@ -1,7 +1,10 @@
 <div align="center">
 
 # Hi 👋, I'm Muhammad Ahmad Naveed
-### Full-Stack Engineer | MERN & Next.js Developer | AI Automation
+
+<a href="https://github.com/Ahmadnaveedofficial">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+NestJS;AI+Automation+Engineer" alt="Typing SVG" />
+</a>
 
 ![Open to](https://img.shields.io/badge/OPEN_TO-FULL--STACK_INTERNSHIPS_%26_JUNIOR_ROLES-brightgreen?style=for-the-badge)
 
@@ -25,7 +28,7 @@ role: Full-Stack Engineer | MERN & Next.js Developer
 location: Lahore, Pakistan
 
 what_i_do:
-  - Build full-stack apps with the MERN stack & Next.js
+  - Build full-stack apps with the MERN stack, Next.js & NestJS
   - Design REST APIs, real-time systems (Socket.IO, Yjs), and automation workflows
   - Ship AI-assisted features using Gemini AI, Inngest, and n8n
 
@@ -44,6 +47,16 @@ open_to:
   - Freelance web development & automation projects
   - Collaboration on open-source and full-stack projects
 ```
+
+---
+
+### 🚧 What I'm Currently Working On
+
+- 🔭 Building **[Signalist](https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app)** — an AI-powered stock market intelligence platform
+- 🌱 Deepening knowledge in **NestJS, PostgreSQL, Prisma**, and AWS cloud deployment
+- 🤖 Shipping AI-assisted automation workflows using **n8n** and **Inngest**
+- 💼 Actively looking for **Full-Stack Development internships & junior roles**
+- 📫 Open to freelance web development and open-source collaboration
 
 ---
 
@@ -142,6 +155,8 @@ open_to:
 - 🤖 **Doctor Appointment Automation** — Automated booking workflow with WhatsApp and payment triggers. `n8n · WhatsApp API`
 - 📍 **[Route Finder](https://github.com/Ahmadnaveedofficial/Route-Finder)** — Shortest-path finder using Dijkstra's algorithm. `C++ · Graphs · DSA`
 
+> 💡 Want a "Pinned Projects" card grid at the top of your profile? Go to **github.com/Ahmadnaveedofficial → Customize your pins** and pick up to 6 repos — GitHub renders those as cards automatically.
+
 ---
 
 ### 📜 Professional Certifications
@@ -161,24 +176,59 @@ open_to:
 
 ### 📊 GitHub Stats
 
+**Trophies**
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmadnaveedofficial&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmadnaveedofficial&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadnaveedofficial&theme=tokyonight&no-frame=true&row=2&column=7" width="100%" />
 </p>
+
+**Streak**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ahmadnaveedofficial&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
+**Contribution Activity**
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnaveedofficial&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
+
+**Top Languages by Repo / by Commit**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmadnaveedofficial&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadnaveedofficial&theme=tokyonight" width="49%" />
+</p>
+
+**Stats / Commits by Hour (UTC +5.00 — Pakistan)**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmadnaveedofficial&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmadnaveedofficial&theme=tokyonight&utcOffset=5" width="49%" />
+</p>
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/output/github-contribution-grid-snake-3d.svg" width="100%" />
+</p>
+
+> ⚠️ Needs the free `yoshi389111/github-profile-3d-contrib` GitHub Action set up on your profile repo (`Ahmadnaveedofficial/Ahmadnaveedofficial`). Say the word and I'll write the workflow file for you.
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+> ⚠️ Needs the `Platane/snk` GitHub Action added to your profile repo's workflow.
 
 ---
 
 ### 📫 Let's Connect!
 
-I'm actively looking for **Full-Stack Development internships and junior roles**. If you're hiring, collaborating, or want to talk MERN, Next.js, or automation, reach out.
+I'm actively looking for **Full-Stack Development internships and junior roles**. If you're hiring, collaborating, or want to talk MERN, Next.js, NestJS, or automation, reach out.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmad-naveed-7b539521a/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
