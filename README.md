@@ -71,7 +71,7 @@ open_to:
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Signalist</h3>
-      <p><b>Next.js · TypeScript · MongoDB · Gemini AI</b></p>
+      <p><b>Next.js · TypeScript · MongoDB · Generative AI</b></p>
       <p>AI-powered stock market intelligence platform with Gemini AI insights, TradingView charts, Better Auth, and Inngest email workflows.</p>
       <p>
         <a href="https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app">
@@ -81,7 +81,7 @@ open_to:
     </td>
     <td width="50%" valign="top">
       <h3>🤖 HireCraft AI</h3>
-      <p><b>React · Node.js · Express · MongoDB · Gemini AI</b></p>
+      <p><b>React · Node.js · Express · MongoDB · Generative AI</b></p>
       <p>Resume and interview prep platform with ATS scoring and AI-generated interview questions.</p>
       <p>
         <a href="https://github.com/Ahmadnaveedofficial/HireCraft-AI">
@@ -116,7 +116,9 @@ open_to:
 
 ---
 
-**More projects:** [Mystery Message](https://github.com/Ahmadnaveedofficial/nextApp) · [VibeTube Backend](https://github.com/Ahmadnaveedofficial/VibeTube-Backend) · [Quick-Chat](https://github.com/Ahmadnaveedofficial/Quick-Chat) · [AN Blog](https://github.com/Ahmadnaveedofficial/AN-Blog) · [Route Finder](https://github.com/Ahmadnaveedofficial/Route-Finder) · Doctor Appointment Automation (n8n · WhatsApp API)
+## More projects:
+
+ [Mystery Message](https://github.com/Ahmadnaveedofficial/nextApp) · [VibeTube Backend](https://github.com/Ahmadnaveedofficial/VibeTube-Backend) · [Quick-Chat](https://github.com/Ahmadnaveedofficial/Quick-Chat) · [AN Blog](https://github.com/Ahmadnaveedofficial/AN-Blog) · [Route Finder](https://github.com/Ahmadnaveedofficial/Route-Finder) · Doctor Appointment Automation (n8n · WhatsApp API)
 
 ---
 
