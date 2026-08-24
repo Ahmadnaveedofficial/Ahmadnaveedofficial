@@ -1,8 +1,7 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=140&section=header&text=Muhammad%20Ahmad%20Naveed&fontSize=38&fontColor=ffffff&fontAlignY=50" /> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=140&section=header&text=Muhammad%20Ahmad%20Naveed&fontSize=38&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Engineer%20%7C%20MERN%20and%20Next.js%20and%20NestJS%20Developer%20%7C%20AI%20Automation&descAlignY=62&descSize=15&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=140&section=header&text=Muhammad%20Ahmad%20Naveed&fontSize=38&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Engineer&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+NestJS+%E2%9A%99%EF%B8%8F;AI+Automation+Engineer+%F0%9F%A4%96;Building+with+n8n+%26+Inngest+%F0%9F%94%81;Open+to+Internships+%26+Junior+Roles+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+NestJS+%E2%9A%99%EF%B8%8F;AI+Automation+Engineer+%F0%9F%A4%96;Building+with+n8n+%26+Inngest+%F0%9F%94%81;Open+to+Internships+%26+Junior+Roles+%E2%9C%85" alt="Typing SVG" />
 </p>
 
 <p align="center">
