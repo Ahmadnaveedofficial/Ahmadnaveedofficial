@@ -40,7 +40,7 @@ what_i_do:
   - Ship AI-assisted features using Gemini AI, Inngest, and n8n
 
 currently:
-  - 🎓 Completed a Software Development Internship at 10Pearls (Shine Cohort 9)
+  - 🎓 Completed a Software Development Internship at 10Pearls
   - 📚 Studying Software Engineering (Semester 5) at The Superior University
   - 🏗️ Exploring NestJS, PostgreSQL, Prisma, and AWS cloud deployment
 
