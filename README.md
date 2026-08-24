@@ -1,20 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=160&section=header&text=Muhammad%20Ahmad%20Naveed&fontSize=38&fontColor=ffffff&fontAlignY=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+NestJS+%E2%9A%99%EF%B8%8F;AI+Automation+Engineer+%F0%9F%A4%96;Building+with+n8n+%26+Inngest+%F0%9F%94%81;Open+to+Internships+%26+Junior+Roles+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+NestJS+%E2%9A%A1;Backend+%26+API+Development;Generative+AI+%26+Automation+%F0%9F%A4%96;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+to+Internships+%26+Junior+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻%20Open%20to-Full--Stack%20Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Open%20to-Full--Stack%20%26%20Backend%20Internships-22c55e?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-naveed-7b539521a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="mailto:ahmadnaveedofficial05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
   <a href="https://ahmadnaveed.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
@@ -31,27 +33,33 @@
 
 ```yaml
 name: Muhammad Ahmad Naveed
-role: Full-Stack Engineer | MERN & Next.js & NestJS Developer
+role: Full-Stack Engineer | MERN, Next.js & NestJS Developer
 location: Lahore, Pakistan
 
 what_i_do:
-  - Build full-stack apps with the MERN stack, Next.js & NestJS
-  - Design REST APIs, real-time systems (Socket.IO, Yjs), and automation workflows
-  - Ship AI-assisted features using Gemini AI, Inngest, and n8n
+  - Build production-ready full-stack applications with React, Next.js, Node.js & NestJS
+  - Design REST APIs, backend architectures, real-time systems, and database-driven applications
+  - Build AI-powered features and automation workflows using Generative AI, n8n, and Inngest
+  - Containerize and deploy applications using Docker and AWS
 
 currently:
-  - 🎓 Completed a Software Development Internship at 10Pearls
-  - 📚 Studying Software Engineering (Semester 5) at The Superior University
-  - 🏗️ Exploring NestJS, PostgreSQL, Prisma, and AWS cloud deployment
+  - 🎓 Studying Software Engineering (Semester 5) at The Superior University
+  - 💼 Completed a Software Development Internship at 10Pearls
+  - ⚙️ Currently focused on NestJS, PostgreSQL, Prisma, and backend architecture
+  - ☁️ Strengthening knowledge in Linux, Docker, AWS, and Cloud/DevOps
 
 passionate_about:
   - ⚙️ Backend architecture & scalable API design
-  - 🤖 AI-powered automation with n8n and Inngest
-  - 🧹 Clean, maintainable, well-tested code
+  - 🏗️ Building maintainable and production-ready systems
+  - 🤖 Generative AI and AI-powered automation
+  - 🔄 Workflow automation with n8n and Inngest
+  - ☁️ Cloud infrastructure, containerization, and deployment
+  - 🧹 Clean, maintainable, and well-tested code
 
 open_to:
-  - Full-Stack Development internships & junior roles (Lahore, Pakistan / Remote)
-  - Freelance web development & automation projects
+  - Full-Stack Development internships & junior roles
+  - Backend Development internships & junior roles
+  - Freelance web development and automation projects
   - Collaboration on open-source and full-stack projects
 ```
 
@@ -119,11 +127,11 @@ open_to:
 
 </p>
 
-<!--  🤖 AI & Automation -->
+<!-- 🤖 Generative AI & Automation -->
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Inngest-1E1E2E?style=for-the-badge" />
 
@@ -163,7 +171,8 @@ open_to:
     <td width="50%" valign="top">
       <h3>📈 Signalist</h3>
       <p><b>Next.js · TypeScript · MongoDB · Generative AI</b></p>
-      <p>AI-powered stock market intelligence platform with Gemini AI insights, TradingView charts, Better Auth, and Inngest email workflows.</p>
+      <p>AI-powered stock market intelligence platform with Generative AI insights,
+TradingView charts, Better Auth, and Inngest email workflows.</p>
       <p>
         <a href="https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
@@ -213,14 +222,16 @@ open_to:
 
 ---
 
-
 ## 🏗️ What I'm Currently Working On
 
-- 🔭 Building **[Signalist](https://github.com/Ahmadnaveedofficial/signalist_stock-tracker-app)** — an AI-powered stock market intelligence platform
-- 🌱 Deepening knowledge in **NestJS, PostgreSQL, Prisma**, and AWS cloud deployment
-- 🤖 Shipping AI-assisted automation workflows using **n8n** and **Inngest**
-- 💼 Actively looking for **Full-Stack Development internships & junior roles**
-- 📫 Open to freelance web development and open-source collaboration
+- 🔧 Building backend applications and REST APIs with **NestJS**
+- 🗄️ Working with **PostgreSQL, Prisma**, and production-ready database architecture
+- 🏗️ Deepening knowledge of **NestJS modules, controllers, services, guards, pipes, interceptors, middleware, and dependency injection**
+- 🧪 Improving backend quality through **validation, error handling, logging, testing, and clean architecture**
+- ☁️ Strengthening **Linux, Docker, AWS, and Cloud/DevOps** skills
+- 🤖 Building AI-powered automation workflows using **n8n, Inngest, and Generative AI**
+- 💼 Actively looking for **Full-Stack and Backend Development internships & junior roles**
+- 📫 Open to freelance web development, backend development, and automation projects
 
 ---
 
@@ -284,9 +295,9 @@ open_to:
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Full-Stack Development internships or junior roles** in Pakistan / Remote.
-If you're hiring, mentoring, or just want to talk MERN, Next.js, NestJS, or automation, reach out to me.
+I'm actively looking for **Full-Stack or Backend Development internships and junior roles** in Pakistan or remotely.
 
+If you're hiring, mentoring, collaborating, or interested in discussing MERN, Next.js, NestJS, backend development, automation, or cloud technologies, feel free to reach out.
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-naveed-7b539521a/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
