@@ -242,7 +242,7 @@ open_to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmadnaveedofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ahmadnaveedofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <p align="center">
@@ -279,8 +279,6 @@ open_to:
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ahmadnaveedofficial/Ahmadnaveedofficial/output/github-snake.svg" />
   </picture>
 </p>
-
-> ⚠️ Needs the `Platane/snk` GitHub Action added to your profile repo's workflow.
 
 ---
 
