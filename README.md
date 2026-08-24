@@ -60,8 +60,6 @@ open_to:
 ## 🛠️ Tech Stack
 
 
-### 🎨 Frontend Development
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,7 +76,7 @@ open_to:
 
 </p>
 
-### ⚙️ Backend Development
+<!-- ### ⚙️ Backend Development -->
 
 <p align="center">
 
@@ -94,7 +92,7 @@ open_to:
 
 </p>
 
-### 🗄️ Databases & ORM
+<!-- ### 🗄️ Databases & ORM -->
 
 <p align="center">
 
@@ -108,7 +106,7 @@ open_to:
 
 </p>
 
-### ☁️ Cloud, DevOps & Deployment
+<!-- ### ☁️ Cloud, DevOps & Deployment -->
 
 <p align="center">
 
@@ -121,7 +119,7 @@ open_to:
 
 </p>
 
-### 🤖 AI & Automation
+<!-- ### 🤖 AI & Automation -->
 
 <p align="center">
 
@@ -131,7 +129,7 @@ open_to:
 
 </p>
 
-### 🧪 Testing & Code Quality
+<!-- ### 🧪 Testing & Code Quality -->
 
 <p align="center">
 
@@ -141,7 +139,7 @@ open_to:
 
 </p>
 
-### 💻 Programming Languages & Development Tools
+<!-- ### 💻 Programming Languages & Development Tools -->
 
 <p align="center">
 
@@ -156,7 +154,7 @@ open_to:
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </p>
----
+
 
 ## 🚀 Projects I've Built
 
