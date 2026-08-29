@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://ahmadnaveed.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -43,6 +43,7 @@ what_i_do:
   - Containerize and deploy applications using Docker and AWS
 
 currently:
+  - 🛡️ Launched OctoGuardian, an autonomous MCP-based GitHub operations engine (UI dashboard coming soon)
   - 🎓 Studying Software Engineering (Semester 5) at The Superior University
   - 💼 Completed a Software Development Internship at 10Pearls
   - ⚙️ Currently focused on NestJS, PostgreSQL, Prisma, and backend architecture
@@ -132,6 +133,8 @@ open_to:
 <p align="center">
 
 <img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Inngest-1E1E2E?style=for-the-badge" />
 
@@ -163,6 +166,37 @@ open_to:
 
 </p>
 
+---
+
+## 🛡️ Featured Launch — OctoGuardian
+
+<img src="assets/logo.png" width="70" align="left" style="margin-right:12px" />
+
+**NestJS · TypeScript · MongoDB · Google Gemini AI · Octokit · Model Context Protocol (MCP)**
+
+An enterprise-grade autonomous AI orchestration engine that executes live GitHub operations through natural language instructions, backed by zero-trust security guardrails.
+
+<br clear="left"/>
+
+- Natural language Git automation across repositories, branches, commits, pull requests, and issues
+- 15+ MCP-standardized Git tools integrated with Google Gemini AI for structured, deterministic execution
+- Human-in-the-Loop guardrails intercept destructive actions and require cryptographic token confirmation before execution
+- Enterprise audit logging with execution status, IP tracking, and latency metrics
+- Multi-tenant GitHub App built on Octokit with dynamic installation resolution and automatic rate-limit handling
+
+Backend engine and security interceptors are live and tested. A dedicated UI dashboard for monitoring actions and HITL approvals is coming soon.
+
+<p align="left">
+  <a href="https://github.com/Ahmadnaveedofficial/OctoGuardian">
+    <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/apps/octoguardian">
+    <img src="https://img.shields.io/badge/GitHub%20App-Install-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+---
 
 ## 🚀 Projects I've Built
 
@@ -224,6 +258,7 @@ TradingView charts, Better Auth, and Inngest email workflows.</p>
 
 ## 🏗️ What I'm Currently Working On
 
+- 🛡️ Building the interactive UI dashboard for **OctoGuardian**, my MCP-based GitHub automation engine
 - 🔧 Building backend applications and REST APIs with **NestJS**
 - 🗄️ Working with **PostgreSQL, Prisma**, and production-ready database architecture
 - 🏗️ Deepening knowledge of **NestJS modules, controllers, services, guards, pipes, interceptors, middleware, and dependency injection**
