@@ -170,7 +170,7 @@ open_to:
 
 ## 🛡️ Featured Launch — OctoGuardian
 
-<img src="assets/logo.png" width="70" align="left" style="margin-right:12px" />
+[<img src="assets/logo.png" width="70" align="left" style="margin-right:12px" />](https://github.com/Ahmadnaveedofficial/OctoGuardian/blob/master/docs/images/logo.png)
 
 **NestJS · TypeScript · MongoDB · Google Gemini AI · Octokit · Model Context Protocol (MCP)**
 
