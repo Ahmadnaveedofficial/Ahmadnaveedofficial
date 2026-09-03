@@ -43,7 +43,8 @@ what_i_do:
   - Containerize and deploy applications using Docker and AWS
 
 currently:
-  - 🛡️ Launched OctoGuardian, an autonomous MCP-based GitHub operations engine (UI dashboard coming soon)
+  - 🛡️ Shipped OctoGuardian end-to-end — backend engine + a full Next.js UI dashboard for MCP-based GitHub automation
+  - 🐳 Learning Docker to containerize OctoGuardian for a production deployment on AWS
   - 🎓 Studying Software Engineering (Semester 5) at The Superior University
   - 💼 Completed a Software Development Internship at 10Pearls
   - ⚙️ Currently focused on NestJS, PostgreSQL, Prisma, and backend architecture
@@ -172,9 +173,9 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/Ahmadnaveedofficial/OctoGuardian/master/docs/images/logo.png" width="70" align="left" style="margin-right:12px" />
 
-**NestJS · TypeScript · MongoDB · Google Gemini AI · Octokit · Model Context Protocol (MCP)**
+**Next.js · NestJS · TypeScript · MongoDB · Google Gemini AI · Octokit · Model Context Protocol (MCP)**
 
-An enterprise-grade autonomous AI orchestration engine that executes live GitHub operations through natural language instructions, backed by zero-trust security guardrails.
+An enterprise-grade autonomous AI orchestration engine — now with a full conversational UI — that executes live GitHub operations through natural language instructions, backed by zero-trust security guardrails.
 
 <br clear="left"/>
 
@@ -183,16 +184,21 @@ An enterprise-grade autonomous AI orchestration engine that executes live GitHub
 - Human-in-the-Loop guardrails intercept destructive actions and require cryptographic token confirmation before execution
 - Enterprise audit logging with execution status, IP tracking, and latency metrics
 - Multi-tenant GitHub App built on Octokit with dynamic installation resolution and automatic rate-limit handling
+- A Next.js console with a persistent conversational chat, HITL confirmation prompts, audit/telemetry dashboards, and a full documentation site
 
-Backend engine and security interceptors are live and tested. A dedicated UI dashboard for monitoring actions and HITL approvals is coming soon.
+Backend engine, security interceptors, and the UI dashboard are all live and tested. Currently containerizing the full stack with Docker for a production deployment on AWS.
 
 <p align="left">
   <a href="https://github.com/Ahmadnaveedofficial/OctoGuardian">
-    <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Backend-View%20Source-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ahmadnaveedofficial/OctoGuardian-Frontend">
+    <img src="https://img.shields.io/badge/Frontend-View%20Source-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://github.com/apps/octoguardian">
-    <img src="https://img.shields.io/badge/GitHub%20App-Install-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub%20App-Install-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
@@ -258,7 +264,7 @@ TradingView charts, Better Auth, and Inngest email workflows.</p>
 
 ## 🏗️ What I'm Currently Working On
 
-- 🛡️ Building the interactive UI dashboard for **OctoGuardian**, my MCP-based GitHub automation engine
+- 🐳 Learning Docker and containerizing **OctoGuardian** (backend + Next.js frontend) for a production deployment on **AWS**
 - 🔧 Building backend applications and REST APIs with **NestJS**
 - 🗄️ Working with **PostgreSQL, Prisma**, and production-ready database architecture
 - 🏗️ Deepening knowledge of **NestJS modules, controllers, services, guards, pipes, interceptors, middleware, and dependency injection**
